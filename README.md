@@ -26,7 +26,7 @@ Practice technical interviews with an AI interviewer powered by Claude. Get real
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/EngAngel/mockmate.git
+git clone https://github.com/Portafolio-EngAngel/mockmate.git
 cd mockmate
 
 # 2. Set your API key
